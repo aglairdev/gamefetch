@@ -7,6 +7,8 @@
   <img src="./demo.png" alt="Demo" width="100%" />
 </div>
 
+<br>
+
 > [!WARNING]
 > O site agrega fontes externas com autoria de terceiros.
 
